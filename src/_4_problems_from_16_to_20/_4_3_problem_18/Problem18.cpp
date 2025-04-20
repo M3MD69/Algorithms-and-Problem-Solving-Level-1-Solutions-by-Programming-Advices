@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-void readNumbers(float& radius) {
+void readRadius(float& radius) {
     cout << "Enter radius:" << endl;
     cin >> radius;
 }
@@ -13,7 +13,7 @@ void printCircleArea(const float CIRCLE_AREA) { cout << "Circle Area = " << CIRC
 
 int main() {
     float radius;
-    readNumbers(radius);
+    readRadius(radius);
     printCircleArea(
         calculateCircleArea(radius)
     );

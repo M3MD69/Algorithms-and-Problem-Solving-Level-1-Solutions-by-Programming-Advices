@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-void readNumbers(float& diameter) {
+void readDiameter(float& diameter) {
     cout << "Enter diameter:" << endl;
     cin >> diameter;
 }
@@ -13,7 +13,7 @@ void printCircleAreaThroughDiameter(const float CIRCLE_AREA) { cout << "Circle A
 
 int main() {
     float diameter;
-    readNumbers(diameter);
+    readDiameter(diameter);
     printCircleAreaThroughDiameter(
         calculateCircleAreaThroughDiameter(diameter)
     );
