@@ -11,7 +11,7 @@ void readNumbers(float& base, float& height) {
 
 float calculateTriangleArea(const float BASE, const float HEIGHT) { return BASE / 2 * HEIGHT; }
 
-void printTriangleArea(const float TRIANGLE_AREA) { cout << "Rectangle Area Through Diagonal and Side = " << TRIANGLE_AREA; }
+void printTriangleArea(const float TRIANGLE_AREA) { cout << "Triangle Area = " << TRIANGLE_AREA; }
 
 int main() {
     float base,
