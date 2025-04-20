@@ -2,18 +2,18 @@
 using namespace std;
 
 void read3Numbers(
-    int& first_number,
-    int& second_number,
-    int& third_number
+    int& firstNumber,
+    int& secondNumber,
+    int& thirdNumber
 ) {
     cout << "Enter First Number:" << endl;
-    cin >> first_number;
+    cin >> firstNumber;
 
     cout << "Enter Second Number:" << endl;
-    cin >> second_number;
+    cin >> secondNumber;
 
     cout << "Enter Third Number:" << endl;
-    cin >> third_number;
+    cin >> thirdNumber;
 }
 
 int maximumOf3Numbers(
