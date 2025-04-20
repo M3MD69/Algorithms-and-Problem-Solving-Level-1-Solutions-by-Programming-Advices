@@ -11,3 +11,4 @@
     2. [Problem 7](src/_2_problems_from_6_to_10/_2_2_problem_7)
     3. [Problem 8](src/_2_problems_from_6_to_10/_2_3_problem_8)
     4. [Problem 9](src/_2_problems_from_6_to_10/_2_4_problem_9)
+    5. [Problem 10](src/_2_problems_from_6_to_10/_2_5_problem_10)
