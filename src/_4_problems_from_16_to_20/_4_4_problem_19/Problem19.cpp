@@ -9,7 +9,7 @@ void readDiameter(float& diameter) {
 
 float calculateCircleAreaThroughDiameter(const float DIAMETER) { return M_PI * DIAMETER * DIAMETER / 4; }
 
-void printCircleAreaThroughDiameter(const float CIRCLE_AREA) { cout << "Circle Area Through Diameter = " << CIRCLE_AREA; }
+void printCircleAreaThroughDiameter(const float CIRCLE_AREA_THROUGH_DIAMETER) { cout << "Circle Area Through Diameter = " << CIRCLE_AREA_THROUGH_DIAMETER; }
 
 int main() {
     float diameter;
