@@ -21,3 +21,4 @@
 4. [Problems from 16 to 20](src/_4_problems_from_16_to_20)
     1. [Problem 16](src/_4_problems_from_16_to_20/_4_1_problem_16)
     2. [Problem 17](src/_4_problems_from_16_to_20/_4_2_problem_17)
+    3. [Problem 18](src/_4_problems_from_16_to_20/_4_3_problem_18)
