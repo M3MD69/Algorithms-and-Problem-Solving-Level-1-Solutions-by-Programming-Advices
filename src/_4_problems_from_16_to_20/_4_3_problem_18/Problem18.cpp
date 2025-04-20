@@ -9,7 +9,7 @@ void readNumbers(float& radius) {
 
 float calculateCircleArea(const float RADIUS) { return M_PI * RADIUS * RADIUS; }
 
-void printCircleArea(const float TRIANGLE_AREA) { cout << "Circle Area = " << TRIANGLE_AREA; }
+void printCircleArea(const float CIRCLE_AREA) { cout << "Circle Area = " << CIRCLE_AREA; }
 
 int main() {
     float radius;
