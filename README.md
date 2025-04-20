@@ -9,3 +9,4 @@
 2. [Problems from 6 to 10](src/_2_problems_from_6_to_10)
     1. [Problem 6](src/_2_problems_from_6_to_10/_2_1_problem_6)
     2. [Problem 7](src/_2_problems_from_6_to_10/_2_2_problem_7)
+    3. [Problem 8](src/_2_problems_from_6_to_10/_2_3_problem_8)
