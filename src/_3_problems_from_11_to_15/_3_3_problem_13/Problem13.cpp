@@ -21,15 +21,12 @@ int maximumOf3Numbers(
     const int SECOND_NUMBER,
     const int THIRD_NUMBER
 ) {
-    if (
-        FIRST_NUMBER >= SECOND_NUMBER &&
-        FIRST_NUMBER >= THIRD_NUMBER
-    )
-        return FIRST_NUMBER;
-    if (
-        SECOND_NUMBER >= FIRST_NUMBER &&
-        SECOND_NUMBER >= THIRD_NUMBER
-    )
+    if (FIRST_NUMBER >= SECOND_NUMBER) {
+        if (FIRST_NUMBER >= THIRD_NUMBER)
+            return FIRST_NUMBER;
+        return THIRD_NUMBER;
+    }
+    if (SECOND_NUMBER >= THIRD_NUMBER)
         return SECOND_NUMBER;
     return THIRD_NUMBER;
 }
