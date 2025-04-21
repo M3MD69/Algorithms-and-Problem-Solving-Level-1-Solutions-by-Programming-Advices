@@ -38,3 +38,4 @@
     5. [Problem 30](src/_6_problems_from_26_to_30/_6_5_problem_30)
 7. [Problems from 31 to 35](src/_7_problems_from_31_to_35)
     1. [Problem 31](src/_7_problems_from_31_to_35/_7_1_problem_31)
+    2. [Problem 32](src/_7_problems_from_31_to_35/_7_2_problem_32)
