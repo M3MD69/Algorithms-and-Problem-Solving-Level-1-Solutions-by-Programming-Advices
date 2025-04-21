@@ -28,3 +28,4 @@
     1. [Problem 21](src/_5_problems_from_21_to_25/_5_1_problem_21)
     2. [Problem 22](src/_5_problems_from_21_to_25/_5_2_problem_22)
     3. [Problem 23](src/_5_problems_from_21_to_25/_5_3_problem_23)
+    4. [Problem 24](src/_5_problems_from_21_to_25/_5_4_problem_24)
