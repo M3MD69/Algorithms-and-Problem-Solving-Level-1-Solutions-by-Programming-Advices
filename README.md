@@ -47,3 +47,4 @@
     2. [Problem 37](src/_8_problems_from_36_to_40/_8_2_problem_37)
     3. [Problem 38](src/_8_problems_from_36_to_40/_8_3_problem_38)
     4. [Problem 39](src/_8_problems_from_36_to_40/_8_4_problem_39)
+    5. [Problem 40](src/_8_problems_from_36_to_40/_8_5_problem_40)
