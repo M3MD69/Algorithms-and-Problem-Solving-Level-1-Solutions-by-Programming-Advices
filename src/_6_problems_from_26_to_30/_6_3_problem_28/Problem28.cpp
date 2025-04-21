@@ -20,16 +20,16 @@ NumberType checkNumberType(const int NUMBER) {
     return Odd;
 }
 
-int calculateSumOddNumbersFrom1toTargetNumberWithFor(const int TARGET_NUMBER) {
-    int sumOddNumbers = 0;
+long calculateSumOddNumbersFrom1toTargetNumberWithFor(const int TARGET_NUMBER) {
+    long sumOddNumbers = 0;
     for (int number = 1; number <= TARGET_NUMBER; ++number)
         if (checkNumberType(number) == Odd)
             sumOddNumbers += number;
     return sumOddNumbers;
 }
 
-int calculateSumOddNumbersFrom1toTargetNumberWithWhile(const int TARGET_NUMBER) {
-    int sumOddNumbers = 0;
+long calculateSumOddNumbersFrom1toTargetNumberWithWhile(const int TARGET_NUMBER) {
+    long sumOddNumbers = 0;
     int number = 1;
     while (number <= TARGET_NUMBER) {
         if (checkNumberType(number) == Odd)
@@ -39,8 +39,8 @@ int calculateSumOddNumbersFrom1toTargetNumberWithWhile(const int TARGET_NUMBER) 
     return sumOddNumbers;
 }
 
-int calculateSumOddNumbersFrom1toTargetNumberWithDoWhile(const int TARGET_NUMBER) {
-    int sumOddNumbers = 0;
+long calculateSumOddNumbersFrom1toTargetNumberWithDoWhile(const int TARGET_NUMBER) {
+    long sumOddNumbers = 0;
     int number = 1;
     do
         if (checkNumberType(number) == Odd)
