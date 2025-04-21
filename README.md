@@ -45,3 +45,4 @@
 8. [Problems from 36 to 40](src/_8_problems_from_36_to_40)
     1. [Problem 36](src/_8_problems_from_36_to_40/_8_1_problem_36)
     2. [Problem 37](src/_8_problems_from_36_to_40/_8_2_problem_37)
+    3. [Problem 38](src/_8_problems_from_36_to_40/_8_3_problem_38)
