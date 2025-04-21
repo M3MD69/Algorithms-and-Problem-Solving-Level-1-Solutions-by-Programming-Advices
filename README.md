@@ -32,3 +32,4 @@
     5. [Problem 25](src/_5_problems_from_21_to_25/_5_5_problem_25)
 6. [Problems from 26 to 30](src/_6_problems_from_26_to_30)
     1. [Problem 26](src/_6_problems_from_26_to_30/_6_1_problem_26)
+    2. [Problem 27](src/_6_problems_from_26_to_30/_6_2_problem_27)
