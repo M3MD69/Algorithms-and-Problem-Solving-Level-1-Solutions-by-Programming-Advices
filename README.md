@@ -35,3 +35,4 @@
     2. [Problem 27](src/_6_problems_from_26_to_30/_6_2_problem_27)
     3. [Problem 28](src/_6_problems_from_26_to_30/_6_3_problem_28)
     4. [Problem 29](src/_6_problems_from_26_to_30/_6_4_problem_29)
+    5. [Problem 30](src/_6_problems_from_26_to_30/_6_5_problem_30)
