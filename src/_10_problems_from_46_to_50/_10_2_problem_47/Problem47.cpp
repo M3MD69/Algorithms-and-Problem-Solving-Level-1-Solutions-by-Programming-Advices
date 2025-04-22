@@ -16,7 +16,6 @@ float monthsRequired(
     const float MONTHLY_PAYMENT
 ) { return ceil(LOAN_AMOUNT / MONTHLY_PAYMENT); }
 
-
 int main() {
     const float LOAN_AMOUNT = readPositiveNumber("Loan Amount");
     const float MONTHLY_PAYMENT = readPositiveNumber("Monthly Payment");

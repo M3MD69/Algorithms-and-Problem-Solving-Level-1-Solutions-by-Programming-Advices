@@ -10,7 +10,6 @@ float readPositiveNumber(const string NUMBER_TYPE) {
     return targetNumber;
 }
 
-
 float calculateTotalBill(const float BILL_VALUE) {
     const float CHARGES_SERVICES = 0.1;
     const float SALES_TAX = 0.16;

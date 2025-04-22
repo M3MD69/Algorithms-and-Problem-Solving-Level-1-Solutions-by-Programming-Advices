@@ -15,7 +15,6 @@ float monthsPayment(
     const float MONTHS
 ) { return LOAN_AMOUNT / MONTHS; }
 
-
 int main() {
     const float LOAN_AMOUNT = readPositiveNumber("Loan Amount");
     const float MONTHS = readPositiveNumber("Months");
