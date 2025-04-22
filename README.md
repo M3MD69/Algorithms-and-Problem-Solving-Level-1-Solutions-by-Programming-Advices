@@ -57,3 +57,6 @@
 10. [Problems from 46 to 50](src/_10_problems_from_46_to_50)
     1. [Problem 46](src/_10_problems_from_46_to_50/_10_1_problem_46)
     2. [Problem 47](src/_10_problems_from_46_to_50/_10_2_problem_47)
+    3. [Problem 48](src/_10_problems_from_46_to_50/_10_3_problem_48)
+    4. [Problem 49](src/_10_problems_from_46_to_50/_10_4_problem_49)
+    5. [Problem 50](src/_10_problems_from_46_to_50/_10_5_problem_50)
