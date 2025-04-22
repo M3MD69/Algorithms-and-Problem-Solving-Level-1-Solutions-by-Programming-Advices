@@ -54,3 +54,5 @@
     3. [Problem 43](src/_9_problems_from_41_to_45/_9_3_problem_43)
     4. [Problem 44](src/_9_problems_from_41_to_45/_9_4_problem_44)
     5. [Problem 45](src/_9_problems_from_41_to_45/_9_5_problem_45)
+10. [Problems from 46 to 50](src/_10_problems_from_46_to_50)
+    1. [Problem 46](src/_10_problems_from_46_to_50/_10_1_problem_46)
