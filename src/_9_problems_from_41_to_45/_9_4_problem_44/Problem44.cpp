@@ -14,7 +14,7 @@ enum WeekDay {
 short readNumber() {
     short number;
     do {
-        cout << "Enter total seconds (positive number):" << endl;
+        cout << "Enter number (1:7):" << endl;
         cin >> number;
     } while (number < 1 || number > 7);
     return number;
