@@ -20,7 +20,7 @@ short readNumber() {
     return number;
 }
 
-WeekDay readWeekDay(const short NUMBER) { return static_cast<WeekDay>(NUMBER); }
+WeekDay readWeekDay() { return static_cast<WeekDay>(readNumber()); }
 
 string getDayByNumber(const short DAY_BY_NUMBER) {
     switch (DAY_BY_NUMBER) {
@@ -43,6 +43,4 @@ string getDayByNumber(const short DAY_BY_NUMBER) {
     }
 }
 
-void printDay(const string WEEK_DAY) { cout << WEEK_DAY; }
-
-int main() { printDay(getDayByNumber(readWeekDay(readNumber()))); }
+int main() { cout << getDayByNumber(readWeekDay()); }
